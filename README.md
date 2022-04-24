@@ -1,7 +1,7 @@
-# generative-art
+# generative-art  [current settings: white color objects, black bg]
 remake of code along session of creatnig a generative art canvas - javascript 
 
-preview of the possible outcomes:
+preview of the possibilities:
 
 
 ![Screenshot (190)](https://user-images.githubusercontent.com/93290831/164984477-409dba5e-90c8-4b4b-8637-6e93c13f6911.png)
